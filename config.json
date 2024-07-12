@@ -1,0 +1,8 @@
+{
+    "username": "米家账号的用户名",
+    "password": "米家账号的密码",
+    "save_path": "./video",
+    "ffmpeg": "ffmpeg命令的全路径",
+    "schedule_minutes": 1,
+    "merge": false
+}
